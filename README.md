@@ -30,3 +30,6 @@ The project includes the following key components:
 
 ## More comparations
 ![Figure 4](https://github.com/joaovpnt/spotify-analysis/blob/main/results/visualization_5.png)
+
+## To access Google Colab, click on the link below
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dwmc2nxdmf8OrNkOV4i5M4JWy--g8By3?usp=sharing)

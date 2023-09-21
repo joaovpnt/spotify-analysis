@@ -22,13 +22,13 @@ The project includes the following key components:
 ### What is the most listened to artist?
 ![Figure 1](https://github.com/joaovpnt/spotify-analysis/blob/main/results/visualization_1.png)
 
-## What is the Top 10 Artists with Most Songs?
+### What is the Top 10 Artists with Most Songs?
 ![Figure 2](https://github.com/joaovpnt/spotify-analysis/blob/main/results/visualization_2.png)
 
-## Calculate average danceability for each year
+### Calculate average danceability for each year
 ![Figure 3](https://github.com/joaovpnt/spotify-analysis/blob/main/results/visualization_4.png)
 
-## More comparations
+### More comparations
 ![Figure 4](https://github.com/joaovpnt/spotify-analysis/blob/main/results/visualization_5.png)
 
 ## To access Google Colab, click on the link below
